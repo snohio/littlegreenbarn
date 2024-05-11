@@ -86,7 +86,7 @@ const config: Config = {
           items: [
             {
               label: 'Resources',
-              to: '/resources/',
+              to: '/docs/about-resources',
             },
             {
               label: 'About',
