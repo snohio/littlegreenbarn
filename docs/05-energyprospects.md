@@ -36,7 +36,7 @@ tags:
 
 [...More about the Empowerment Toolkit](https://www.energyprospects.eu/toolkit/the-enci-concept-and-its-typology-what-it-entails-and-why-might-be-relevant-for-you/)
 
-[Download the Empowerment Toolkit](www.energyprospects.eu/fileadmin/user_upload/lu_portal/www.energycitizen.eu/EnergyPROSPECTS_D2.1_310821_final.pdf.)
+[Download the Empowerment Toolkit](https://www.energyprospects.eu/fileadmin/user_upload/lu_portal/www.energycitizen.eu/EnergyPROSPECTS_D2.1_310821_final.pdf.)
 
 ## Why the EnergyPROSPECTS Project and ENCI Toolkit are Important
 

@@ -18,6 +18,6 @@ We will have a paragraph or so after every article on why that is important to u
 
 ## Contributions
 
-If you would like to help contribute to article gathering, please reach out to Us [via Email](contribute@littlegreenbarn.com)
+If you would like to help contribute to article gathering, please reach out to Us [via Email](mailto://contribute@littlegreenbarn.com)
 
 ![sustainability](img/sustainability-energy-globe-renewable.png)
