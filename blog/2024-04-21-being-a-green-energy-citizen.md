@@ -1,7 +1,7 @@
 ---
 slug: being-a-green-energy-citizen
 title: How you can be a Green Energy Citizen
-authors: [robottowa]
+authors: [snohio]
 tags: [green, citizen]
 ---
 

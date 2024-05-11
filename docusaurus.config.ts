@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/snohio/littlegreenbarn/tree/main/docs/',
+            'https://github.com/snohio/littlegreenbarn/tree/main/resources/',
         },
         blog: {
           showReadingTime: true,
@@ -82,11 +82,15 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Resources',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Resources',
+              to: '/docs/about-resources',
+            },
+            {
+              label: 'About',
+              to: '/about',
             },
           ],
         },
@@ -94,16 +98,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
+              label: 'Winter Park Community Engagement',
+              href: 'https://cityofwinterpark.org/departments/natural-resources-sustainability/sustainability-division/community-engagement-green-economy/',
+            },
+            {
               label: '/r Green Energy ',
               href: 'https://www.reddit.com/r/GreenEnergy/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: '#greenenergy on X',
+              href: 'https://twitter.com/search?q=%23GreenEnergy',
             },
           ],
         },
@@ -115,8 +119,12 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitHub',
+              label: 'Docusaurus',
               href: 'https://github.com/facebook/docusaurus',
+            },
+            {
+              label: 'Trinity Prep',
+              href: 'https://www.trinityprep.org/',
             },
           ],
         },
