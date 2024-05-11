@@ -98,12 +98,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: '/r Green Energy ',
-              href: 'https://www.reddit.com/r/GreenEnergy/',
-            },
-            {
               label: 'Winter Park Community Engagement',
               href: 'https://cityofwinterpark.org/departments/natural-resources-sustainability/sustainability-division/community-engagement-green-economy/',
+            },
+            {
+              label: '/r Green Energy ',
+              href: 'https://www.reddit.com/r/GreenEnergy/',
             },
             {
               label: '#greenenergy on X',
@@ -119,8 +119,12 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitHub',
+              label: 'Docusaurus',
               href: 'https://github.com/facebook/docusaurus',
+            },
+            {
+              label: 'Trinity Prep'
+              href: 'https://www.trinityprep.org/'
             },
           ],
         },
