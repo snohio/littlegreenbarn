@@ -123,8 +123,8 @@ const config: Config = {
               href: 'https://github.com/facebook/docusaurus',
             },
             {
-              label: 'Trinity Prep'
-              href: 'https://www.trinityprep.org/'
+              label: 'Trinity Prep',
+              href: 'https://www.trinityprep.org/',
             },
           ],
         },
