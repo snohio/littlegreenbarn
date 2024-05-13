@@ -20,3 +20,5 @@ tags:
 ## Why This Is Important
 
 ENERGY.GOV is the website for the U.S. Department of Energy. They understand the important role that they play in transforming the way the United States consumes energy and reduces carbon emissions.
+
+This source talks about what clean energy power sources there are worldwide. It is a good source of information and learning about different ways to get energy. It will be helpful because we can put it on our website so people can access it and discover or realize that this is an important issue.

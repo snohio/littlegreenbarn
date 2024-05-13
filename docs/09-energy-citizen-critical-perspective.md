@@ -18,3 +18,4 @@ tags:
 
 ## Our perspective on *Energy Citizenship - A Critical Perspective*
 
+Although quite long, this is a officially published journal from a very reputable source. The discussion on interrelations between democratic cultures and citizenship is an interesting read.

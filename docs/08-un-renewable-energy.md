@@ -27,3 +27,4 @@ tags:
 
 ## Why the United Nations information on Renewal Energy is important to become a Green Energy Citizen
 
+It talks about the benefits of renewable energy. It will be helpful because we can put it on our website so people can access it and learn about the facts. This will be used in presenting because it is a reliable source.

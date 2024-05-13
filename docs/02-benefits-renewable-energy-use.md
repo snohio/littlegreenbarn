@@ -22,3 +22,4 @@ tags:
 
 ## Why this Article is Important to Us
 
+It talks about how carbon dioxide is harmful to the environment. It is sustainably sourced and harvested. It will be helpful because we can put it on our website so people can access it and learn about the facts. This will be used in presenting because it is a reliable source.

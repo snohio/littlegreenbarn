@@ -16,3 +16,4 @@ tags:
 
 ## Why We Think the CCE is Important
 
+Citizens for Clean Energy is a great example of a local non-profit organization working in their community to make a different. Other city and state local governments could follow their model for making changes locally.
