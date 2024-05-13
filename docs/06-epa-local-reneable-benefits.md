@@ -35,3 +35,4 @@ tags:
 
 ## Why the EPA and this Guide is important to us
 
+This is a excellent source for information on all of the different types of technologies that don't use fossil fuels for energy. There is good information how you can purchase green power in your area.

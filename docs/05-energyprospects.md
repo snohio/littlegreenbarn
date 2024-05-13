@@ -39,3 +39,5 @@ tags:
 [Download the Empowerment Toolkit](https://www.energyprospects.eu/fileadmin/user_upload/lu_portal/www.energycitizen.eu/EnergyPROSPECTS_D2.2_311021_final.pdf)
 
 ## Why the EnergyPROSPECTS Project and ENCI Toolkit are Important
+
+The Empowerment Toolkit is a great national guide to start initiatives and improve opinions on clean energy.

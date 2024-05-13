@@ -1,12 +1,12 @@
 ---
-title: Project Greta - Energy Citizen
+title: Project GRETA - Energy Citizen
 tags:
   - Organization
   - Information
   - Energy Citizen
 ---
 
-## Information about Energy 
+## Information about Energy
 
 > ### What is an energy community?
 >
@@ -23,3 +23,5 @@ tags:
 [...More about Energy Citizen from Project Greta](https://projectgreta.eu/energy-citizenship/)
 
 ## Why Project GRETA is important to us
+
+Participating in energy transition also benefits you personally. It will be helpful because we can put it on our website so people can access it and learn about this new mission. This is a real mission that has happened.
